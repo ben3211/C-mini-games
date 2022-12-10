@@ -1,0 +1,15 @@
+C:\Users\IB\Desktop\Projets\SecondApp\obj\Debug\net6.0\SecondApp.csproj.AssemblyReference.cache
+C:\Users\IB\Desktop\Projets\SecondApp\obj\Debug\net6.0\SecondApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IB\Desktop\Projets\SecondApp\obj\Debug\net6.0\SecondApp.AssemblyInfoInputs.cache
+C:\Users\IB\Desktop\Projets\SecondApp\obj\Debug\net6.0\SecondApp.AssemblyInfo.cs
+C:\Users\IB\Desktop\Projets\SecondApp\obj\Debug\net6.0\SecondApp.csproj.CoreCompileInputs.cache
+C:\Users\IB\Desktop\Projets\SecondApp\bin\Debug\net6.0\SecondApp.exe
+C:\Users\IB\Desktop\Projets\SecondApp\bin\Debug\net6.0\SecondApp.deps.json
+C:\Users\IB\Desktop\Projets\SecondApp\bin\Debug\net6.0\SecondApp.runtimeconfig.json
+C:\Users\IB\Desktop\Projets\SecondApp\bin\Debug\net6.0\SecondApp.dll
+C:\Users\IB\Desktop\Projets\SecondApp\bin\Debug\net6.0\SecondApp.pdb
+C:\Users\IB\Desktop\Projets\SecondApp\obj\Debug\net6.0\SecondApp.dll
+C:\Users\IB\Desktop\Projets\SecondApp\obj\Debug\net6.0\refint\SecondApp.dll
+C:\Users\IB\Desktop\Projets\SecondApp\obj\Debug\net6.0\SecondApp.pdb
+C:\Users\IB\Desktop\Projets\SecondApp\obj\Debug\net6.0\SecondApp.genruntimeconfig.cache
+C:\Users\IB\Desktop\Projets\SecondApp\obj\Debug\net6.0\ref\SecondApp.dll
